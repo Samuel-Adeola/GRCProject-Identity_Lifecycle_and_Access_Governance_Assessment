@@ -1,1 +1,25 @@
+## Registers
+# 1. Staff directory
+Boxelder Payroll Systems, Inc. - Employee Directory
 
+Document ref: BXP-REG-001 | Source: BambooHR export | Generated: 2026-08-03 | Prepared by: B. Toland, HR Manager
+| Employee ID	| Full name	| Title	| Department | Location	| Reports to |	Email	Type |Start date | End date	| Status |
+P-001 |	Danielle Whitcomb	Chief Executive Officer	Executive	Columbus HQ		danielle.whitcomb@boxelderpay.example.com	Full-time	2013-06-03		Active
+P-002	Rajan Mehta	Chief Financial Officer	Finance	Columbus HQ	Danielle Whitcomb	rajan.mehta@boxelderpay.example.com	Full-time	2018-04-09		Active
+P-003	Curtis Lindqvist	Chief Technology Officer	Technology	Columbus HQ	Danielle Whitcomb	curtis.lindqvist@boxelderpay.example.com	Full-time	2014-02-17		Active
+P-004	Priscilla Navarro	VP Engineering	Technology	Austin office	Curtis Lindqvist	priscilla.navarro@boxelderpay.example.com	Full-time	2021-08-02		Active
+P-005	Tobias Grell	Director of IT and Security	Technology	Columbus HQ	Curtis Lindqvist	tobias.grell@boxelderpay.example.com	Full-time	2019-11-11		Active
+P-006	Renata Kowalczyk	Senior Systems Administrator	Technology	Columbus HQ	Tobias Grell	renata.kowalczyk@boxelderpay.example.com	Full-time	2022-03-28		Active
+P-007	Ethan Marbury	Senior DevOps Engineer	Technology	Remote - US	Priscilla Navarro	ethan.marbury@boxelderpay.example.com	Full-time	2021-05-10	2026-03-20	Terminated
+P-008	Grant Solano	VP Customer Success	Customer Success	Columbus HQ	Danielle Whitcomb	grant.solano@boxelderpay.example.com	Full-time	2019-01-14		Active
+P-009	Lauren Pietsch	Customer Operations Manager	Customer Success	Columbus HQ	Grant Solano	lauren.pietsch@boxelderpay.example.com	Full-time	2019-09-23	2026-02-27	Terminated
+P-010	Kayla Merced	Customer Support Specialist	Customer Success	Remote - US	Grant Solano	kayla.merced@boxelderpay.example.com	Full-time	2024-02-05		Active
+P-011	Douglas Yuen	Payroll Operations Manager	Finance	Columbus HQ	Rajan Mehta	douglas.yuen@boxelderpay.example.com	Full-time	2020-07-06		Active
+P-012	Bernice Toland	HR Manager	People	Columbus HQ	Danielle Whitcomb	bernice.toland@boxelderpay.example.com	Full-time	2017-10-30		Active
+P-013	Alvin Petrovic	Controller	Finance	Columbus HQ	Rajan Mehta	alvin.petrovic@boxelderpay.example.com	Full-time	2021-01-19		Active
+P-014	Meredith Kang	Director of Sales	Sales	Columbus HQ	Danielle Whitcomb	meredith.kang@boxelderpay.example.com	Full-time	2020-06-08		Active
+P-015	Ingrid Vasquez	Senior Software Engineer	Technology	Austin office	Priscilla Navarro	ingrid.vasquez@boxelderpay.example.com	Full-time	2022-09-12		Active
+P-016	Omar Sultani	Senior Software Engineer	Technology	Remote - US	Priscilla Navarro	omar.sultani@boxelderpay.example.com	Full-time	2023-04-24		Active
+P-017	Stanley Obi	Data Engineer	Technology	Remote - US	Priscilla Navarro	stanley.obi@boxelderpay.example.com	Full-time	2023-08-14		Active
+P-018	Felix Draper	Product Manager	Product	Columbus HQ	Curtis Lindqvist	felix.draper@boxelderpay.example.com	Full-time	2022-11-07		Active
+P-019	Simone Adeyemi	Compliance Manager	Operations	Columbus HQ	Rajan Mehta	simone.adeyemi@boxelderpay.example.com	Full-time	2026-05-04		Active
