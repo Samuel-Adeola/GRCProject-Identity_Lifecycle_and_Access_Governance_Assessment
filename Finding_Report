@@ -1,4 +1,5 @@
-## Executive Access Governance Finding Report
+
+Executive Access Governance Finding Report
 Organization: Boxelder Payroll Systems, Inc.
 Finding: Incomplete Termination Access Revocation
 Primary SOC 2 Criterion: CC6.2
@@ -19,7 +20,6 @@ Terminated personnel have retained active access to Boxelder systems after their
 Ethan Marbury retains enabled Entra access and active GitHub organization-administrator privileges, while Lauren 
 Pietsch retains enabled Entra access and an active Helprail agent account.
 
-
 Criterion
 POL-009, Onboarding and Offboarding Procedure, establishes that access should be granted and revoked reliably 
 when personnel join, change roles, or leave Boxelder.
@@ -28,14 +28,12 @@ of internal and external users before system credentials are issued and system a
 existence of active accounts belonging to terminated personnel demonstrates a weakness in the organization's control 
 over the authorized user population and the lifecycle management of system access.
 
-
 Root Cause
 The root cause is an incomplete offboarding control design. POL-009 includes GitHub and Helprail account provisioning 
 in its onboarding checklist but does not include corresponding GitHub or Helprail revocation activities in its 
 offboarding checklist.
 As a result, the procedure does not provide IT and HR with a complete system-by-system mechanism for ensuring that all 
 access associated with a departing employee is identified and revoked.
-
 
 Risk and Consequence
 The control deficiency creates a risk that former employees can continue accessing corporate systems, sensitive information, 
@@ -44,7 +42,6 @@ The risk is particularly significant for privileged accounts. A former engineer 
 privileges could potentially access or alter repositories and organization resources. Persistent orphaned accounts also 
 increase the organization's exposure to unauthorized access, credential misuse, data compromise, inadequate accountability, 
 and SOC 2 control exceptions.
-
 
 Recommended Remediation
 Management should revise POL-009 so that every system provisioned during onboarding has a corresponding offboarding control. 
