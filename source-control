@@ -1,1 +1,78 @@
+GitHub - Organization members
+-----------------------------
+{
+  "organization": "boxelder",
+  "members": [
+    {
+      "login": "clindqvist",
+      "id": 1000,
+      "node_id": "MDQ6VXNlcj1000",
+      "type": "User",
+      "site_admin": false,
+      "html_url": "https://github.com/clindqvist",
+      "role": "admin",
+      "state": "active"
+    },
+    {
+      "login": "pnavarro",
+      "id": 1001,
+      "node_id": "MDQ6VXNlcj1001",
+      "type": "User",
+      "site_admin": false,
+      "html_url": "https://github.com/pnavarro",
+      "role": "admin",
+      "state": "active"
+    },
+    {
+      "login": "emarbury-bxp",
+      "id": 1002,
+      "node_id": "MDQ6VXNlcj1002",
+      "type": "User",
+      "site_admin": false,
+      "html_url": "https://github.com/emarbury-bxp",
+      "role": "admin",
+      "state": "active"
+    },
+    {
+      "login": "ivasquez",
+      "id": 1003,
+      "node_id": "MDQ6VXNlcj1003",
+      "type": "User",
+      "site_admin": false,
+      "html_url": "https://github.com/ivasquez",
+      "role": "member",
+      "state": "active"
+    },
+    {
+      "login": "osultani",
+      "id": 1004,
+      "node_id": "MDQ6VXNlcj1004",
+      "type": "User",
+      "site_admin": false,
+      "html_url": "https://github.com/osultani",
+      "role": "member",
+      "state": "active"
+    },
+    {
+      "login": "sobi-data",
+      "id": 1005,
+      "node_id": "MDQ6VXNlcj1005",
+      "type": "User",
+      "site_admin": false,
+      "html_url": "https://github.com/sobi-data",
+      "role": "member",
+      "state": "active"
+    },
+    {
+      "login": "fdraper",
+      "id": 1006,
+      "node_id": "MDQ6VXNlcj1006",
+      "type": "User",
+      "site_admin": false,
+      "html_url": "https://github.com/fdraper",
+      "role": "member",
+      "state": "active"
+    }
+  ]
+}
 
