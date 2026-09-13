@@ -11,16 +11,7 @@ Document ref: BXP-REG-001 | Source: BambooHR export | Generated: 2026-08-03 | Pr
 | P-003 | Curtis Lindqvist | Chief Technology Officer | Technology |	Columbus HQ | Danielle Whitcomb	| curtis.lindqvist@boxelderpay.example.com | Full-time	| 2014-02-17 |     |	Active |
 | P-004 | Priscilla Navarro | VP Engineering | Technology	| Austin office	| Curtis Lindqvist | priscilla.navarro@boxelderpay.example.com | Full-time | 2021-08-02 |   	| Active | 
 
-## PROJECTS
 
-Identity and Access Management Projects:
-
-| Domain  |Project Title                        | Skills              | Link         |
-|---|-------------------------------------|---------------------|--------------|
-| GRC/Identity and Access Management| Automating an Audit-Driven Identity and Access Management Framework in Active Directory with Enhanced Security and Compliance |IAM, Active Directory, SIEM, Splunk, Audit, PowerShell | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
-| Active Directory Management | Active Directory Domain Services (AD DS) Implementation and Management for Organizational User and Resource Structure Using Agile Methodology | Active Directory, PowerShell Automation, Project Management | https://github.com/Samuel-Adeola/IAM_ActiveDirectory_ProjectLabs- |
-|   |                |               |          |
-|   |                |               |          |
 
 
 
